@@ -4,7 +4,7 @@ Sistema de Punto de Venta (POS) profesional para heladería desarrollado con Pyt
 
 ## Características
 
-✨ **Funcionalidades Principales:**
+ **Funcionalidades Principales:**
 -  **Punto de Venta**: Venta rápida con filtros por categoría y gestión de toppings
 -  **Histórico de Ventas**: Vista maestro-detalle de todas las transacciones
 -  **Registro de Mermas**: Gestión de pérdidas y productos dañados
